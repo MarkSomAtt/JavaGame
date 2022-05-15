@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"Csapat"},{"l":"Felfedezo"},{"l":"jatek"},{"l":"PajaElemek"},{"l":"Targyak"},{"l":"Targyak.Elelmiszer"},{"l":"Targyak.Hasznalati_targy"},{"l":"Targyak.Kincs"},{"l":"Terkep"}]
